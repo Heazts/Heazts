@@ -14,6 +14,7 @@ Estou no **1º semestre** de Análise e Desenvolvimento de Sistemas, apaixonado 
 - **GML**: Desenvolvimento de jogos 2D no GameMaker
 - **HTML e CSS**: Conhecimento básico para criar protótipos web
 - **SQL**: Noções básicas para manipulação de bancos de dados
+- **Python:** Conhecimento básico
 
 ---
 
@@ -22,6 +23,7 @@ Estou no **1º semestre** de Análise e Desenvolvimento de Sistemas, apaixonado 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
