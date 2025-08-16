@@ -10,7 +10,7 @@
 ## Sobre Mim
 Estou no **1º semestre** de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento. Tenho **noções de lógica de programação** e estou construindo minha base em programação.
 
-- **Formação**: Análise e Desenvolvimento de Sistemas (cursando, 1º semestre)
+- **Formação**: Análise e Desenvolvimento de Sistemas (cursando, 2º semestre)
 - **GML**: Desenvolvimento de jogos 2D no GameMaker
 - **HTML e CSS**: Conhecimento básico para criar protótipos web
 - **SQL**: Noções básicas para manipulação de bancos de dados
