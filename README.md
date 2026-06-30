@@ -2,22 +2,22 @@
 
 # Heazts
 
-*Apaixonado por tecnologia e jogos*
+*Passionate about technology and gaming*
 
-<img src="https://c.tenor.com/5Gp3w7vw5WkAAAAd/tenor.gif" alt="Chainsaw Man animado" width="280">
+<img src="https://c.tenor.com/5Gp3w7vw5WkAAAAd/tenor.gif" alt="Chainsaw Man animated" width="280">
 
 </div>
 
 ---
 
-## Sobre mim
+## About me
 
-- Curioso por tecnologia e desenvolvimento
-- Sempre aprendendo algo novo
+- Curious about technology and development
+- Always learning something new
 
 ---
 
-## Estatísticas
+## Stats
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 ---
 
-## Contato
+## Contact
 
 <div align="center">
 
