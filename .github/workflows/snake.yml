@@ -19,6 +19,39 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#b6e3ff,#54aeff,#0969da,#0a3069,#ffffff
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=orange&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
+      - name: Remove legend bar from SVGs
+        run: |
+          python3 - << 'EOF'
+          import xml.etree.ElementTree as ET
+          import os, glob, re
+
+          for fname in glob.glob('dist/*.svg'):
+              with open(fname) as f:
+                  content = f.read()
+
+              for m in re.finditer(r'xmlns(?::(\w+))?=["\']([^"\']+)["\']', content):
+                  ET.register_namespace(m.group(1) or '', m.group(2))
+
+              tree = ET.parse(fname)
+              root = tree.getroot()
+
+              ns = root.tag.split('}')[0][1:] if '}' in root.tag else ''
+              g_tag   = f'{{{ns}}}g'    if ns else 'g'
+              txt_tag = f'{{{ns}}}text' if ns else 'text'
+
+              def remove_legend(parent):
+                  for child in list(parent):
+                      if child.tag == g_tag:
+                          texts = [t.text or '' for t in child.iter(txt_tag)]
+                          if any(t.strip() in ('Less', 'More') for t in texts):
+                              parent.remove(child)
+                              continue
+                      remove_legend(child)
+
+              remove_legend(root)
+              tree.write(fname, xml_declaration=True, encoding='unicode')
+          EOF
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
