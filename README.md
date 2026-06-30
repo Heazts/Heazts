@@ -13,7 +13,6 @@
 ## Sobre mim
 
 - Curioso por tecnologia e desenvolvimento
-- Fã de animes e jogos
 - Sempre aprendendo algo novo
 
 ---
