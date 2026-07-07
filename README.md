@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Heazts;Passionate+about+tech+%26+gaming;Always+learning+something+new" alt=" " />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Heazts;Passionate+about+tech+%26+gaming;Always+learning+something+new" alt=" " />
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Heazts&color=70A5FD&style=for-the-badge&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Heazts&color=BB9AF7&style=for-the-badge&label=Profile+Views)
 
 <br/>
 
@@ -37,7 +37,7 @@
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Heazts)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BB9AF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-9ece6a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Heazts)
 
 </div>
