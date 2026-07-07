@@ -12,14 +12,12 @@
 
 </div>
 
----
 
 ## About me
 
 - Curious about technology and development
 - Always learning something new
 
----
 
 ## Stats
 
@@ -34,7 +32,6 @@
 
 </div>
 
----
 
 <div align="center">
 
