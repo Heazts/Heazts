@@ -4,7 +4,7 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Heazts&color=BB9AF7&style=for-the-badge&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Heazts&color=6366F1&style=for-the-badge&label=Profile+Views)
 
 <br/>
 
