@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Heazts+%F0%9F%91%BE;Passionate+about+tech+%26+gaming" alt=" " />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Heazts;Passionate+about+tech+%26+gaming;Always+learning+something+new" alt=" " />
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Heazts&color=70A5FD&style=flat-square&label=Profile+Views)
+
+<br/>
 
 <img src="https://c.tenor.com/5Gp3w7vw5WkAAAAd/tenor.gif" width="260" alt=" " />
 
@@ -8,22 +14,25 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heazts&layout=compact&theme=tokyonight&hide_border=true" alt=" " />
-
-**About me**
+## About me
 
 - Curious about technology and development
 - Always learning something new
 
-<br clear="right"/>
-
 ---
+
+## Stats
 
 <div align="center">
 
-[![](https://github-profile-trophy.vercel.app/?username=Heazts&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://github-profile-trophy.vercel.app/?username=Heazts&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-![ ](https://github-readme-stats.vercel.app/api?username=Heazts&show_icons=true&theme=tokyonight&hide_border=true)
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heazts&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heazts&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
 
 [![](https://streak-stats.demolab.com?user=Heazts&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
