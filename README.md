@@ -4,7 +4,7 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Heazts&color=70A5FD&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Heazts&color=70A5FD&style=for-the-badge&label=Profile+Views)
 
 <br/>
 
@@ -37,6 +37,7 @@
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Heazts)
 
 </div>
